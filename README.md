@@ -13,9 +13,4 @@ Frameworks used:
 - [Part 2: Funnel Debugging](Part2_Funnel_Debugging.md)
 - [Part 3: Dashboard Design](Part3_Dashboard.md)
 - [Part 4: Strategic Summary](Part4_Strategic_Summary.md)
-
-## Dashboard Preview
-![Dashboard Wireframe](./assets/dashboard_wireframe.png)
-
----
-
+----
